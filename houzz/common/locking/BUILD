@@ -1,0 +1,11 @@
+python_library(
+    name="redis_locker",
+    sources=[
+        "redis_lock.py",
+    ],
+    dependencies=[
+        "src/python/houzz/common:redis_req",
+        "src/python/houzz/common:six_req",
+        'src/python/houzz/common:redis_lib',
+    ],
+)

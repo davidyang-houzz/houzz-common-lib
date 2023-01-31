@@ -1,0 +1,12 @@
+python_library(
+    name="model_src",
+    sources=[
+        'ftp_file.py',
+        'ftp_file_by_account.py',
+        'mp_catalog_keyspace.py',
+    ],
+    dependencies=[
+        'src/python/houzz/common:cassandra_req',
+        'src/python/houzz/common/cassandra:cassandra_lib',
+    ]
+)

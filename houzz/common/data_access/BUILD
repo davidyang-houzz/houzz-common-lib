@@ -1,0 +1,63 @@
+python_library(
+    name='mysql_lib',
+    sources=[
+        'exceptions.py',
+        'mysql.py',
+    ],
+    dependencies=[
+        'src/python/houzz/common:config_lib',
+        'src/python/houzz/common:pymysql_req',
+        'src/python/houzz/common/module:metric_module_lib',
+        'src/python/houzz/common/metric/common:ratelimiting',
+        '3rdparty/python:twitter_common_app_req',
+    ],
+)
+
+python_library(
+    name='mysql_lib_py3',
+    sources=[
+        'exceptions.py',
+        'mysql.py',
+    ],
+    dependencies=[
+        'src/python/houzz/common:config_lib',
+        'src/python/houzz/common:pymysql_req_py3',
+        'src/python/houzz/common/module:metric_module_lib',
+        'src/python/houzz/common/metric/common:ratelimiting',
+        '3rdparty/python:twitter_common_app_req',
+    ],
+)
+
+python_library(
+    name='redis_con_lib',
+    sources=['redis_con.py'],
+    dependencies=[
+        'src/python/houzz/common:redis_utils_lib',
+        'src/python/houzz/common:redis_req',
+    ],
+)
+
+python_binary(
+    name='mysql_py_test',
+    entry_point="houzz.common.data_access.tests.mysql_test_app",
+    compatibility='CPython<3',
+    dependencies=[
+        'src/python/houzz/common/data_access/tests:mysql_py_test_src',
+    ]
+)
+
+python_tests(name='mysql_tests',
+    dependencies=[
+        ':mysql_lib',
+        ':config',
+    ],
+    sources=[
+        'tests/test_mysql.py',
+        'tests/test_mysql_integration.py',
+    ],
+)
+
+resources(
+    name='config',
+    sources=['../../config/config.yaml'],
+)

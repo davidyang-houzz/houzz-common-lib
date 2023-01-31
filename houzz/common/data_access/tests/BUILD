@@ -1,0 +1,10 @@
+python_library(
+    name="mysql_py_test_src",
+    sources=[
+        'mysql_test_app.py',
+    ],
+    dependencies=[
+        "src/python/houzz/push/native:models",
+        'src/python/houzz/common/module:metric_module_lib',
+    ]
+)

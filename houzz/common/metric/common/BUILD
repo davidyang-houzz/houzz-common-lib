@@ -1,0 +1,21 @@
+python_library(
+    name="metric_common",
+    sources=[
+        "config.py",
+        "key_value.py",
+        "utils.py",
+    ],
+    dependencies=[
+        ":ratelimiting",
+        "src/python/houzz/common/mem_disk_queue:mem_disk_queue_lib",
+        "src/python/houzz/common/metric/streamhist:streamhist",
+        "c2thrift/definitions/backends:metrics",
+        "src/python/houzz/common:six_req",
+        "src/python/houzz/common:thrift_req",
+    ]
+)
+
+python_library(
+    name="ratelimiting",
+    sources=["ratelimiting.py"],
+)

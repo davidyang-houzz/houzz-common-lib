@@ -1,0 +1,15 @@
+python_library(
+    name="rq",
+    sources=[
+        'client.py',
+        'tasks.py',
+    ],
+    dependencies=[
+        'src/python/houzz/common:config_lib',
+        'src/python/houzz/common/data_access:redis_con_lib',
+        'src/python/houzz/common/locking:redis_locker',
+        'src/python/houzz/common/metric/client:metric_client',
+        'src/python/houzz/common:six_req',
+        'src/python/houzz/common:requests_req',
+    ],
+)

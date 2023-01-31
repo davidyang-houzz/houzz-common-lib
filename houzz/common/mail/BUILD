@@ -1,0 +1,10 @@
+python_library(
+    name="mail_sending",
+    sources=[
+        "sending.py",
+    ],
+    dependencies=[
+        'src/python/houzz/common:config_lib',
+        'src/python/houzz/common:six_req',
+    ],
+)

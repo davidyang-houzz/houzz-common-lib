@@ -1,0 +1,9 @@
+boto
+filechunkio
+paramiko
+pymysql
+pyyaml
+redis
+requests
+thrift
+salt

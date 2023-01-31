@@ -1,0 +1,9 @@
+python_library(
+    name="pagerduty",
+    sources=[
+        "pagerduty.py",
+    ],
+    dependencies=[
+        'src/python/houzz/common:requests_req',
+    ],
+)
