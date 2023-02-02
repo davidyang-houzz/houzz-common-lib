@@ -16,7 +16,7 @@ with open('README.md') as f:
     long_desc = f.read()
 
 setup(
-    name="houzz-common-lib",
+    name="houzz",
     url="https://github.com/davidyang-houzz/houzz-common-lib.git",
     version="1.0.0",
     maintainer="david yang",
@@ -26,4 +26,9 @@ setup(
     classifiers=[
         "Programming Language :: Python :: 3"
     ],
+    install_requires=[
+        "pyyaml",
+        "six"
+    ],
+    include_package_data=True
 )

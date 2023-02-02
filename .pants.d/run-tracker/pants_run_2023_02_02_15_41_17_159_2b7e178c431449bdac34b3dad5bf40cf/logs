@@ -1,0 +1,6 @@
+15:41:23.93 [33m[WARN][0m Pants cannot infer owners for the following imports in the target //setup.py:root:
+
+  * setuptools.find_packages (line: 1)
+  * setuptools.setup (line: 1)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.

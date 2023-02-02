@@ -1,0 +1,219 @@
+15:43:38.01 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/calendar_utils.py:
+
+  * pytz.timezone (line: 14)
+  * pytz.utc (line: 14)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.01 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/date_utils.py:
+
+  * six.moves.range (line: 11)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.01 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/async_executor.py:
+
+  * gevent.pool.Pool (line: 6)
+  * gevent.spawn (line: 4)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.01 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/config.py:
+
+  * six (line: 9)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.01 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/operation_utils.py:
+
+  * six (line: 21)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.07 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/multipart_post_util.py:
+
+  * six (line: 13)
+  * six.moves.range (line: 14)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.08 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/domain_list_sync_files.py:
+
+  * six (line: 29)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.19 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/local_cache_sync_files.py:
+
+  * six (line: 42)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.20 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/process_utils.py:
+
+  * psutil (line: 22)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.21 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/email_utils.py:
+
+  * six (line: 28)
+  * six.moves.range (line: 29)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.22 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/dev_tool_utils.py:
+
+  * readchar (line: 8)
+  * six.moves.input (line: 9)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.22 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/facebook_utils.py:
+
+  * six (line: 18)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.31 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/zookeeper_util.py:
+
+  * kazoo.client (line: 29)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.32 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/eloqua_utils.py:
+
+  * pyeloqua.bulk.Bulk (line: 5)
+  * pyeloqua.error_handling.EloquaServerError (line: 6)
+  * pyeloqua.error_handling.EloquaValidationError (line: 6)
+  * pyeloqua.pyeloqua.POST_HEADERS (line: 7)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.32 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/paid_pro_utils.py:
+
+  * six (line: 16)
+  * six.moves.map (line: 9)
+  * six.moves.zip_longest (line: 17)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.33 [33m[WARN][0m The target houzz/common/service_proxy_discoveryless.py imports `thrift.protocol.TBinaryProtocol`, but Pants cannot safely infer a dependency because more than one target owns this module, so it is ambiguous which to use: ['houzz/common/metric/components:reqs#thrift', 'houzz/common:reqs0#thrift'].
+
+Please explicitly include the dependency you want in the `dependencies` field of houzz/common/service_proxy_discoveryless.py, or ignore the ones you do not want by prefixing with `!` or `!!` so that one or no targets are left.
+
+Alternatively, you can remove the ambiguity by deleting/changing some of the targets so that only 1 target owns this module. Refer to https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies.
+15:43:38.33 [33m[WARN][0m The target houzz/common/service_proxy_discoveryless.py imports `thrift.transport.TSocket`, but Pants cannot safely infer a dependency because more than one target owns this module, so it is ambiguous which to use: ['houzz/common/metric/components:reqs#thrift', 'houzz/common:reqs0#thrift'].
+
+Please explicitly include the dependency you want in the `dependencies` field of houzz/common/service_proxy_discoveryless.py, or ignore the ones you do not want by prefixing with `!` or `!!` so that one or no targets are left.
+
+Alternatively, you can remove the ambiguity by deleting/changing some of the targets so that only 1 target owns this module. Refer to https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies.
+15:43:38.34 [33m[WARN][0m The target houzz/common/service_proxy_discoveryless.py imports `thrift.transport.TTransport`, but Pants cannot safely infer a dependency because more than one target owns this module, so it is ambiguous which to use: ['houzz/common/metric/components:reqs#thrift', 'houzz/common:reqs0#thrift'].
+
+Please explicitly include the dependency you want in the `dependencies` field of houzz/common/service_proxy_discoveryless.py, or ignore the ones you do not want by prefixing with `!` or `!!` so that one or no targets are left.
+
+Alternatively, you can remove the ambiguity by deleting/changing some of the targets so that only 1 target owns this module. Refer to https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies.
+15:43:38.34 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/service_proxy_discoveryless.py:
+
+  * thrift.protocol.TBinaryProtocol (line: 5)
+  * thrift.transport.TSocket (line: 6)
+  * thrift.transport.TTransport (line: 7)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.37 [33m[WARN][0m The target houzz/common/service_client_wrapper.py imports `thrift.transport.TTransport`, but Pants cannot safely infer a dependency because more than one target owns this module, so it is ambiguous which to use: ['houzz/common/metric/components:reqs#thrift', 'houzz/common:reqs0#thrift'].
+
+Please explicitly include the dependency you want in the `dependencies` field of houzz/common/service_client_wrapper.py, or ignore the ones you do not want by prefixing with `!` or `!!` so that one or no targets are left.
+
+Alternatively, you can remove the ambiguity by deleting/changing some of the targets so that only 1 target owns this module. Refer to https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies.
+15:43:38.37 [33m[WARN][0m The target houzz/common/service_client_wrapper.py imports `thrift.transport.TSocket`, but Pants cannot safely infer a dependency because more than one target owns this module, so it is ambiguous which to use: ['houzz/common/metric/components:reqs#thrift', 'houzz/common:reqs0#thrift'].
+
+Please explicitly include the dependency you want in the `dependencies` field of houzz/common/service_client_wrapper.py, or ignore the ones you do not want by prefixing with `!` or `!!` so that one or no targets are left.
+
+Alternatively, you can remove the ambiguity by deleting/changing some of the targets so that only 1 target owns this module. Refer to https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies.
+15:43:38.37 [33m[WARN][0m The target houzz/common/service_client_wrapper.py imports `thrift.protocol.TBinaryProtocol`, but Pants cannot safely infer a dependency because more than one target owns this module, so it is ambiguous which to use: ['houzz/common/metric/components:reqs#thrift', 'houzz/common:reqs0#thrift'].
+
+Please explicitly include the dependency you want in the `dependencies` field of houzz/common/service_client_wrapper.py, or ignore the ones you do not want by prefixing with `!` or `!!` so that one or no targets are left.
+
+Alternatively, you can remove the ambiguity by deleting/changing some of the targets so that only 1 target owns this module. Refer to https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies.
+15:43:38.46 [33m[WARN][0m The target houzz/common/service_pool.py imports `thrift.transport.TTransport`, but Pants cannot safely infer a dependency because more than one target owns this module, so it is ambiguous which to use: ['houzz/common/metric/components:reqs#thrift', 'houzz/common:reqs0#thrift'].
+
+Please explicitly include the dependency you want in the `dependencies` field of houzz/common/service_pool.py, or ignore the ones you do not want by prefixing with `!` or `!!` so that one or no targets are left.
+
+Alternatively, you can remove the ambiguity by deleting/changing some of the targets so that only 1 target owns this module. Refer to https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies.
+15:43:38.47 [33m[WARN][0m The target houzz/common/service_pool.py imports `thrift.transport.TSocket`, but Pants cannot safely infer a dependency because more than one target owns this module, so it is ambiguous which to use: ['houzz/common/metric/components:reqs#thrift', 'houzz/common:reqs0#thrift'].
+
+Please explicitly include the dependency you want in the `dependencies` field of houzz/common/service_pool.py, or ignore the ones you do not want by prefixing with `!` or `!!` so that one or no targets are left.
+
+Alternatively, you can remove the ambiguity by deleting/changing some of the targets so that only 1 target owns this module. Refer to https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies.
+15:43:38.50 [33m[WARN][0m The target houzz/common/service_pool.py imports `thrift.protocol.TBinaryProtocol`, but Pants cannot safely infer a dependency because more than one target owns this module, so it is ambiguous which to use: ['houzz/common/metric/components:reqs#thrift', 'houzz/common:reqs0#thrift'].
+
+Please explicitly include the dependency you want in the `dependencies` field of houzz/common/service_pool.py, or ignore the ones you do not want by prefixing with `!` or `!!` so that one or no targets are left.
+
+Alternatively, you can remove the ambiguity by deleting/changing some of the targets so that only 1 target owns this module. Refer to https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies.
+15:43:38.50 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/service_pool.py:
+
+  * thrift.protocol.TBinaryProtocol (line: 5)
+  * thrift.transport.TSocket (line: 4)
+  * thrift.transport.TTransport (line: 3)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.51 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/service_client_wrapper.py:
+
+  * thrift.protocol.TBinaryProtocol (line: 6)
+  * thrift.transport.TSocket (line: 5)
+  * thrift.transport.TTransport (line: 4)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.52 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/stack_dumper.py:
+
+  * six (line: 14)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.53 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/redis_cluster_utils.py:
+
+  * rediscluster (line: 8)
+  * rediscluster.exceptions.RedisClusterException (line: 10)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.59 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/redis_utils.py:
+
+  * rediscluster (line: 8)
+  * six.moves.range (line: 13)
+  * six.moves.zip_longest (line: 12)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.59 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/service_register.py:
+
+  * kazoo.client (line: 8)
+  * kazoo.exceptions (line: 9)
+  * kazoo.protocol.states (line: 10)
+  * kazoo.security.READ_ACL_UNSAFE (line: 11)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.59 [33m[WARN][0m The target houzz/common/service_proxy.py imports `thrift.Thrift.TException`, but Pants cannot safely infer a dependency because more than one target owns this module, so it is ambiguous which to use: ['houzz/common/metric/components:reqs#thrift', 'houzz/common:reqs0#thrift'].
+
+Please explicitly include the dependency you want in the `dependencies` field of houzz/common/service_proxy.py, or ignore the ones you do not want by prefixing with `!` or `!!` so that one or no targets are left.
+
+Alternatively, you can remove the ambiguity by deleting/changing some of the targets so that only 1 target owns this module. Refer to https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies.
+15:43:38.59 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/service_proxy.py:
+
+  * retry.retry (line: 8)
+  * thrift.Thrift.TException (line: 10)
+  * twitter.common.log (line: 6)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.61 [33m[WARN][0m The target houzz/common/redis_repo.py imports `thrift.protocol.TJSONProtocol`, but Pants cannot safely infer a dependency because more than one target owns this module, so it is ambiguous which to use: ['houzz/common/metric/components:reqs#thrift', 'houzz/common:reqs0#thrift'].
+
+Please explicitly include the dependency you want in the `dependencies` field of houzz/common/redis_repo.py, or ignore the ones you do not want by prefixing with `!` or `!!` so that one or no targets are left.
+
+Alternatively, you can remove the ambiguity by deleting/changing some of the targets so that only 1 target owns this module. Refer to https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies.
+15:43:38.61 [33m[WARN][0m The target houzz/common/redis_repo.py imports `thrift.protocol.TBinaryProtocol`, but Pants cannot safely infer a dependency because more than one target owns this module, so it is ambiguous which to use: ['houzz/common/metric/components:reqs#thrift', 'houzz/common:reqs0#thrift'].
+
+Please explicitly include the dependency you want in the `dependencies` field of houzz/common/redis_repo.py, or ignore the ones you do not want by prefixing with `!` or `!!` so that one or no targets are left.
+
+Alternatively, you can remove the ambiguity by deleting/changing some of the targets so that only 1 target owns this module. Refer to https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies.
+15:43:38.61 [33m[WARN][0m The target houzz/common/redis_repo.py imports `thrift.transport.TTransport`, but Pants cannot safely infer a dependency because more than one target owns this module, so it is ambiguous which to use: ['houzz/common/metric/components:reqs#thrift', 'houzz/common:reqs0#thrift'].
+
+Please explicitly include the dependency you want in the `dependencies` field of houzz/common/redis_repo.py, or ignore the ones you do not want by prefixing with `!` or `!!` so that one or no targets are left.
+
+Alternatively, you can remove the ambiguity by deleting/changing some of the targets so that only 1 target owns this module. Refer to https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies.
+15:43:38.61 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/redis_repo.py:
+
+  * boto3 (line: 11)
+  * six.moves.range (line: 2)
+  * six.moves.zip (line: 3)
+  * thrift.protocol.TBinaryProtocol (line: 15)
+  * thrift.protocol.TJSONProtocol (line: 14)
+  * thrift.transport.TTransport (line: 16)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.
+15:43:38.61 [33m[WARN][0m Pants cannot infer owners for the following imports in the target houzz/common/ssh_utils.py:
+
+  * six (line: 9)
+
+If you do not expect an import to be inferrable, add `# pants: no-infer-dep` to the import line. Otherwise, see https://www.pantsbuild.org/v2.14/docs/troubleshooting#import-errors-and-missing-dependencies for common problems.

@@ -1,0 +1,483 @@
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"BUILD", ""}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/BUILD", "houzz/common"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/cassandra", "houzz/common/cassandra/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/cassandra/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/alert", "houzz/common/alert/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/alert/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/aws", "houzz/common/aws/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/aws/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/abtest", "houzz/common/abtest/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/abtest/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/locking", "houzz/common/locking/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mail", "houzz/common/mail/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/logger", "houzz/common/logger/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/data_access/BUILD", "houzz/common/data_access"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/data_access/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 1 and dirtied 961 nodes for: {"BUILD", ""}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 1 and dirtied 946 nodes for: {"houzz/common", "houzz/common/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 1 and dirtied 36 nodes for: {"houzz/common/cassandra/BUILD", "houzz/common/cassandra"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/cassandra/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 1 and dirtied 36 nodes for: {"houzz/common/alert", "houzz/common/alert/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/alert/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 1 and dirtied 68 nodes for: {"houzz/common/aws", "houzz/common/aws/BUILD"}
+15:40:41.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/aws/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/abtest", "houzz/common/abtest/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/abtest/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 36 nodes for: {"houzz/common/locking/BUILD", "houzz/common/locking"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 36 nodes for: {"houzz/common/mail", "houzz/common/mail/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 46 nodes for: {"houzz/common/logger", "houzz/common/logger/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 48 nodes for: {"houzz/common/data_access", "houzz/common/data_access/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/data_access/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/logger", "houzz/common/logger/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/logger/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mail", "houzz/common/mail/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mail/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 121 nodes for: {"houzz/common/metric", "houzz/common/metric/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 46 nodes for: {"houzz/common/module/BUILD", "houzz/common/module"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/module/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 46 nodes for: {"houzz/common/mp/BUILD", "houzz/common/mp"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mp/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 34 nodes for: {"houzz/common/thrift_gen2", "houzz/common/thrift_gen2/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen2/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 46 nodes for: {"houzz/common/mem_disk_queue", "houzz/common/mem_disk_queue/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mem_disk_queue/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 38 nodes for: {"houzz/common/tests", "houzz/common/tests/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/tests/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 36 nodes for: {"houzz/common/yaml/BUILD", "houzz/common/yaml"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/yaml/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 43 nodes for: {"houzz/common/redis", "houzz/common/redis/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/redis/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/locking", "houzz/common/locking/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/locking/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 36 nodes for: {"houzz/common/pyeloqua", "houzz/common/pyeloqua/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/pyeloqua/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 36 nodes for: {"houzz/common/stacksampler", "houzz/common/stacksampler/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/stacksampler/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/zookeeper/BUILD", "houzz/common/zookeeper"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/zookeeper/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 48 nodes for: {"houzz/common/metric/components", "houzz/common/metric/components/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/components/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/redis/test/BUILD", "houzz/common/redis/test"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/redis/test/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/aws/waf/BUILD", "houzz/common/aws/waf"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/aws/waf/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 43 nodes for: {"houzz/common/rq/BUILD", "houzz/common/rq"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/rq/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/rq/test/BUILD", "houzz/common/rq/test"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/rq/test/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 36 nodes for: {"houzz/common/logger/tests/BUILD", "houzz/common/logger/tests"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/logger/tests/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 38 nodes for: {"houzz/common/data_access/tests/BUILD", "houzz/common/data_access/tests"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/data_access/tests/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 36 nodes for: {"houzz/common/mem_disk_queue/tests/BUILD", "houzz/common/mem_disk_queue/tests"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mem_disk_queue/tests/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 46 nodes for: {"houzz/common/metric/client/BUILD", "houzz/common/metric/client"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/client/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 46 nodes for: {"houzz/common/metric/common", "houzz/common/metric/common/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/common/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 48 nodes for: {"houzz/common/metric/streamhist/BUILD", "houzz/common/metric/streamhist"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/streamhist/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 36 nodes for: {"houzz/common/module/tests", "houzz/common/module/tests/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/module/tests/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/access_control/BUILD", "houzz/common/thrift_gen/access_control"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 36 nodes for: {"houzz/common/mp/model", "houzz/common/mp/model/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/logger/BUILD", "houzz/common/logger"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mp/model/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/logger/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mail", "houzz/common/mail/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mail/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric", "houzz/common/metric/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/module/BUILD", "houzz/common/module"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/module/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mp/BUILD", "houzz/common/mp"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mp/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen2", "houzz/common/thrift_gen2/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen2/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mem_disk_queue/BUILD", "houzz/common/mem_disk_queue"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/base_service/BUILD", "houzz/common/thrift_gen/base_service"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/base_service/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/access_control/BUILD", "houzz/common/thrift_gen/access_control"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/access_control/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/cassandra_dumper", "houzz/common/thrift_gen/cassandra_dumper/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/cassandra_dumper/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/audit_log", "houzz/common/thrift_gen/audit_log/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/audit_log/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/catalog_service", "houzz/common/thrift_gen/catalog_service/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/catalog_service/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/categorization/BUILD", "houzz/common/thrift_gen/categorization"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/categorization/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/dedup_service_v1/BUILD", "houzz/common/thrift_gen/dedup_service_v1"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/dedup_service_v1/BUILD"}
+15:40:41.51 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/deepsim/BUILD", "houzz/common/thrift_gen/deepsim"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/deepsim/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/delivery_engine", "houzz/common/thrift_gen/delivery_engine/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/delivery_engine/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/discovery_service", "houzz/common/thrift_gen/discovery_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/discovery_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/email_stat_service/BUILD", "houzz/common/thrift_gen/email_stat_service"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/email_stat_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/epn_service", "houzz/common/thrift_gen/epn_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/epn_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/gltf_service/BUILD", "houzz/common/thrift_gen/gltf_service"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/gltf_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/homeowner_seriousness", "houzz/common/thrift_gen/homeowner_seriousness/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/homeowner_seriousness/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/hugedeer", "houzz/common/thrift_gen/hugedeer/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/hugedeer/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/image_evaluate", "houzz/common/thrift_gen/image_evaluate/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/image_evaluate/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/id_service", "houzz/common/thrift_gen/id_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/id_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/image_processing_service", "houzz/common/thrift_gen/image_processing_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/image_processing_service", "houzz/common/thrift_gen/image_processing_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/image_processing_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/image_search/BUILD", "houzz/common/thrift_gen/image_search"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/image_search/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/image_search_feature/BUILD", "houzz/common/thrift_gen/image_search_feature"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/image_search_feature/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/insights_service/BUILD", "houzz/common/thrift_gen/insights_service"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/insights_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/k8s_email_service", "houzz/common/thrift_gen/k8s_email_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/k8s_email_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/lighting/BUILD", "houzz/common/thrift_gen/lighting"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/lighting/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/log_record/BUILD", "houzz/common/thrift_gen/log_record"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/log_record/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/lpv_worker", "houzz/common/thrift_gen/lpv_worker/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/lpv_worker/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/mail_host_service/BUILD", "houzz/common/thrift_gen/mail_host_service"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/mail_host_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/metrics/BUILD", "houzz/common/thrift_gen/metrics"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/metrics/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/mpa_campaigns_service", "houzz/common/thrift_gen/mpa_campaigns_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/mpa_campaigns_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/nginx_ssl_updater", "houzz/common/thrift_gen/nginx_ssl_updater/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/nginx_ssl_updater/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/p13n_event/BUILD", "houzz/common/thrift_gen/p13n_event"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/p13n_event/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/paddy", "houzz/common/thrift_gen/paddy/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/paddy/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/plan_image_service", "houzz/common/thrift_gen/plan_image_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/plan_image_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/product_despam", "houzz/common/thrift_gen/product_despam/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/product_despam/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/push_native_service", "houzz/common/thrift_gen/push_native_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/profile_service", "houzz/common/thrift_gen/profile_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/profile_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/push_native_service", "houzz/common/thrift_gen/push_native_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/push_native_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/push_socket_service", "houzz/common/thrift_gen/push_socket_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/push_socket_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/queryintent", "houzz/common/thrift_gen/queryintent/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/queryintent/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/rewards_service/BUILD", "houzz/common/thrift_gen/rewards_service"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/rewards_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/salt_ec2_syncer/BUILD", "houzz/common/thrift_gen/salt_ec2_syncer"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/salt_ec2_syncer/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/search_base/BUILD", "houzz/common/thrift_gen/search_base"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/search_base/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/search_indexer/BUILD", "houzz/common/thrift_gen/search_indexer"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/search_indexer/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/search_mixer/BUILD", "houzz/common/thrift_gen/search_mixer"}
+15:40:41.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mem_disk_queue/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/search_mixer/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/tests", "houzz/common/tests/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/tests/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/yaml/BUILD", "houzz/common/yaml"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/yaml/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/redis/BUILD", "houzz/common/redis"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/redis/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/locking/BUILD", "houzz/common/locking"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/locking/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/pyeloqua", "houzz/common/pyeloqua/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/pyeloqua/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/stacksampler", "houzz/common/stacksampler/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/search_type", "houzz/common/thrift_gen/search_type/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/search_type/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/source_manager/BUILD", "houzz/common/thrift_gen/source_manager"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/source_manager/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/spam_detection/BUILD", "houzz/common/thrift_gen/spam_detection"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/spam_detection/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/spam_detection_profile/BUILD", "houzz/common/thrift_gen/spam_detection_profile"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/spam_detection_profile/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/ssl_surrogate/BUILD", "houzz/common/thrift_gen/ssl_surrogate"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/ssl_surrogate/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/template_service", "houzz/common/thrift_gen/template_service/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/template_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/threed_camera", "houzz/common/thrift_gen/threed_camera/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/threed_camera/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/test", "houzz/common/thrift_gen/test/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/test/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/tm_service/BUILD", "houzz/common/thrift_gen/tm_service"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/tm_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/translation/BUILD", "houzz/common/thrift_gen/translation"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/translation", "houzz/common/thrift_gen/translation/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/translation/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/user_history", "houzz/common/thrift_gen/user_history/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/user_history/BUILD"}
+15:40:41.52 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/stacksampler/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/zookeeper", "houzz/common/zookeeper/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/zookeeper/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/components/BUILD", "houzz/common/metric/components"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/components/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/redis/test", "houzz/common/redis/test/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/redis/test/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/aws/waf/BUILD", "houzz/common/aws/waf"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/aws/waf/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"houzz/common/thrift_gen/user_profile_service", "houzz/common/thrift_gen/user_profile_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/rq", "houzz/common/rq/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/rq/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/rq/test", "houzz/common/rq/test/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/rq/test/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/logger/tests", "houzz/common/logger/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/user_profile_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/logger/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/data_access/tests/BUILD", "houzz/common/data_access/tests"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/data_access/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mem_disk_queue/tests/BUILD", "houzz/common/mem_disk_queue/tests"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mem_disk_queue/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/client", "houzz/common/metric/client/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/client/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/common", "houzz/common/metric/common/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/common/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/streamhist/BUILD", "houzz/common/metric/streamhist"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/streamhist/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/wise/BUILD", "houzz/common/thrift_gen/wise"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/module/tests/BUILD", "houzz/common/module/tests"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/module/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/wise/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/access_control", "houzz/common/thrift_gen/access_control/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mp/model", "houzz/common/mp/model/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/mp/model/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/base_service", "houzz/common/thrift_gen/base_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/base_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/access_control/BUILD", "houzz/common/thrift_gen/access_control"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/access_control/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/cassandra_dumper/BUILD", "houzz/common/thrift_gen/cassandra_dumper"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/cassandra_dumper/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/audit_log", "houzz/common/thrift_gen/audit_log/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/audit_log/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/catalog_service/BUILD", "houzz/common/thrift_gen/catalog_service"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/catalog_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/categorization/BUILD", "houzz/common/thrift_gen/categorization"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/categorization/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/wise_suggest", "houzz/common/thrift_gen/wise_suggest/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/dedup_service_v1", "houzz/common/thrift_gen/dedup_service_v1/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/dedup_service_v1/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/deepsim", "houzz/common/thrift_gen/deepsim/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/wise_suggest/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/deepsim/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/delivery_engine", "houzz/common/thrift_gen/delivery_engine/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/delivery_engine/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/discovery_service/BUILD", "houzz/common/thrift_gen/discovery_service"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/discovery_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/email_stat_service", "houzz/common/thrift_gen/email_stat_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/email_stat_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/epn_service/BUILD", "houzz/common/thrift_gen/epn_service"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/epn_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/gltf_service", "houzz/common/thrift_gen/gltf_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/gltf_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/homeowner_seriousness", "houzz/common/thrift_gen/homeowner_seriousness/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/homeowner_seriousness/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 48 nodes for: {"houzz/common/aws/s3/syncer", "houzz/common/aws/s3/syncer/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/aws/s3/syncer/BUILD"}
+15:40:41.53 [INFO] Filesystem changed during run: retrying `TailorGoal` in 500ms...
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/hugedeer/BUILD", "houzz/common/thrift_gen/hugedeer"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/hugedeer/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/image_evaluate/BUILD", "houzz/common/thrift_gen/image_evaluate"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/image_evaluate/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/id_service/BUILD", "houzz/common/thrift_gen/id_service"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/id_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/image_processing_service/BUILD", "houzz/common/thrift_gen/image_processing_service"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/image_processing_service", "houzz/common/thrift_gen/image_processing_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/image_processing_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/image_search", "houzz/common/thrift_gen/image_search/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/image_search/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/image_search_feature", "houzz/common/thrift_gen/image_search_feature/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/image_search_feature/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/insights_service/BUILD", "houzz/common/thrift_gen/insights_service"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/insights_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/k8s_email_service/BUILD", "houzz/common/thrift_gen/k8s_email_service"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/k8s_email_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/lighting", "houzz/common/thrift_gen/lighting/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/lighting/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/log_record", "houzz/common/thrift_gen/log_record/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/log_record/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/lpv_worker", "houzz/common/thrift_gen/lpv_worker/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/lpv_worker/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/mail_host_service/BUILD", "houzz/common/thrift_gen/mail_host_service"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/mail_host_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/metrics", "houzz/common/thrift_gen/metrics/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/metrics/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/mpa_campaigns_service/BUILD", "houzz/common/thrift_gen/mpa_campaigns_service"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/mpa_campaigns_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/nginx_ssl_updater/BUILD", "houzz/common/thrift_gen/nginx_ssl_updater"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/nginx_ssl_updater/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/p13n_event/BUILD", "houzz/common/thrift_gen/p13n_event"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/p13n_event/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/paddy/BUILD", "houzz/common/thrift_gen/paddy"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/paddy/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/plan_image_service", "houzz/common/thrift_gen/plan_image_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/plan_image_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/product_despam/BUILD", "houzz/common/thrift_gen/product_despam"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/product_despam/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/push_native_service", "houzz/common/thrift_gen/push_native_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/profile_service", "houzz/common/thrift_gen/profile_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/profile_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/push_native_service/BUILD", "houzz/common/thrift_gen/push_native_service"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/push_native_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/push_socket_service/BUILD", "houzz/common/thrift_gen/push_socket_service"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/push_socket_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/queryintent/BUILD", "houzz/common/thrift_gen/queryintent"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/queryintent/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/rewards_service", "houzz/common/thrift_gen/rewards_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/rewards_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/salt_ec2_syncer", "houzz/common/thrift_gen/salt_ec2_syncer/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/salt_ec2_syncer/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/search_base/BUILD", "houzz/common/thrift_gen/search_base"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/search_base/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/search_indexer", "houzz/common/thrift_gen/search_indexer/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/search_indexer/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/search_mixer/BUILD", "houzz/common/thrift_gen/search_mixer"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/search_mixer/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/search_type/BUILD", "houzz/common/thrift_gen/search_type"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/search_type/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/source_manager", "houzz/common/thrift_gen/source_manager/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/source_manager/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/spam_detection/BUILD", "houzz/common/thrift_gen/spam_detection"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/spam_detection/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/spam_detection_profile", "houzz/common/thrift_gen/spam_detection_profile/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/spam_detection_profile/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/ssl_surrogate", "houzz/common/thrift_gen/ssl_surrogate/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/ssl_surrogate/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/template_service", "houzz/common/thrift_gen/template_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/template_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/threed_camera/BUILD", "houzz/common/thrift_gen/threed_camera"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/threed_camera/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/test/BUILD", "houzz/common/thrift_gen/test"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/test/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/tm_service/BUILD", "houzz/common/thrift_gen/tm_service"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/tm_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/translation", "houzz/common/thrift_gen/translation/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/translation", "houzz/common/thrift_gen/translation/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/translation/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/user_history", "houzz/common/thrift_gen/user_history/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/user_history/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 38 nodes for: {"houzz/common/metric/client/tests", "houzz/common/metric/client/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/user_profile_service", "houzz/common/thrift_gen/user_profile_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/user_profile_service/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/client/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/wise/BUILD", "houzz/common/thrift_gen/wise"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/wise/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/wise_suggest/BUILD", "houzz/common/thrift_gen/wise_suggest"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/wise_suggest/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/aws/s3/syncer", "houzz/common/aws/s3/syncer/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/aws/s3/syncer/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/client/tests/BUILD", "houzz/common/metric/client/tests"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/client/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/common/tests/BUILD", "houzz/common/metric/common/tests"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/common/tests", "houzz/common/metric/common/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/common/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/streamhist/tests", "houzz/common/metric/streamhist/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/streamhist/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/components/tests/BUILD", "houzz/common/metric/components/tests"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 38 nodes for: {"houzz/common/metric/common/tests", "houzz/common/metric/common/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/components/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/address/BUILD", "houzz/common/thrift_gen/jukwaa/address"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/common/tests", "houzz/common/metric/common/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/address/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/ads/BUILD", "houzz/common/thrift_gen/jukwaa/ads"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/common/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/ads/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/base", "houzz/common/thrift_gen/jukwaa/base/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/base/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/comments/BUILD", "houzz/common/thrift_gen/jukwaa/comments"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/comments/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/common", "houzz/common/thrift_gen/jukwaa/common/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/common/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/galleries/BUILD", "houzz/common/thrift_gen/jukwaa/galleries"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/galleries/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/home_feeds", "houzz/common/thrift_gen/jukwaa/home_feeds/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/home_feeds/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/images", "houzz/common/thrift_gen/jukwaa/images/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/images/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/navigation", "houzz/common/thrift_gen/jukwaa/navigation/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 40 nodes for: {"houzz/common/metric/streamhist/tests", "houzz/common/metric/streamhist/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/navigation/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/p13n/BUILD", "houzz/common/thrift_gen/jukwaa/p13n"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/streamhist/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/p13n/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/posts", "houzz/common/thrift_gen/jukwaa/posts/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/posts/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/pro_home_page", "houzz/common/thrift_gen/jukwaa/pro_home_page/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/pro_home_page/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/pro_messages", "houzz/common/thrift_gen/jukwaa/pro_messages/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/pro_messages/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/recommendation", "houzz/common/thrift_gen/jukwaa/recommendation/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/recommendation/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/review", "houzz/common/thrift_gen/jukwaa/review/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/review", "houzz/common/thrift_gen/jukwaa/review/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/review/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 38 nodes for: {"houzz/common/metric/components/tests/BUILD", "houzz/common/metric/components/tests"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/review_aspect", "houzz/common/thrift_gen/jukwaa/review_aspect/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/review_aspect/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/metric/components/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/routing", "houzz/common/thrift_gen/jukwaa/routing/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/routing/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/spaces/BUILD", "houzz/common/thrift_gen/jukwaa/spaces"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/spaces/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/urls/BUILD", "houzz/common/thrift_gen/jukwaa/urls"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/urls/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/video", "houzz/common/thrift_gen/jukwaa/video/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/video/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/aws/s3/syncer/tests", "houzz/common/aws/s3/syncer/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/aws/s3/syncer/tests/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/address/BUILD", "houzz/common/thrift_gen/jukwaa/address"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/address/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/ads/BUILD", "houzz/common/thrift_gen/jukwaa/ads"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/ads/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/base", "houzz/common/thrift_gen/jukwaa/base/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/base/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/comments", "houzz/common/thrift_gen/jukwaa/comments/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/comments/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/common", "houzz/common/thrift_gen/jukwaa/common/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/common/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/galleries/BUILD", "houzz/common/thrift_gen/jukwaa/galleries"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/galleries/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/home_feeds/BUILD", "houzz/common/thrift_gen/jukwaa/home_feeds"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/home_feeds/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/images", "houzz/common/thrift_gen/jukwaa/images/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/images/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/navigation", "houzz/common/thrift_gen/jukwaa/navigation/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/navigation/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/p13n", "houzz/common/thrift_gen/jukwaa/p13n/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/p13n/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/posts/BUILD", "houzz/common/thrift_gen/jukwaa/posts"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/posts/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/pro_home_page/BUILD", "houzz/common/thrift_gen/jukwaa/pro_home_page"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/pro_home_page/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/pro_messages", "houzz/common/thrift_gen/jukwaa/pro_messages/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/pro_messages/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/recommendation/BUILD", "houzz/common/thrift_gen/jukwaa/recommendation"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/recommendation/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/review/BUILD", "houzz/common/thrift_gen/jukwaa/review"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/review", "houzz/common/thrift_gen/jukwaa/review/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/review/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/review_aspect", "houzz/common/thrift_gen/jukwaa/review_aspect/BUILD"}
+15:40:41.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/review_aspect/BUILD"}
+15:40:41.54 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/routing/BUILD", "houzz/common/thrift_gen/jukwaa/routing"}
+15:40:41.54 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/routing/BUILD"}
+15:40:41.54 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/spaces", "houzz/common/thrift_gen/jukwaa/spaces/BUILD"}
+15:40:41.54 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/spaces/BUILD"}
+15:40:41.54 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/urls", "houzz/common/thrift_gen/jukwaa/urls/BUILD"}
+15:40:41.54 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/urls/BUILD"}
+15:40:41.54 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"houzz/common/thrift_gen/jukwaa/video/BUILD", "houzz/common/thrift_gen/jukwaa/video"}
+15:40:41.54 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/thrift_gen/jukwaa/video/BUILD"}
+15:40:41.54 [INFO] notify invalidation: cleared 1 and dirtied 38 nodes for: {"houzz/common/aws/s3/syncer/tests/BUILD", "houzz/common/aws/s3/syncer/tests"}
+15:40:41.54 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"houzz/common/aws/s3/syncer/tests/BUILD"}

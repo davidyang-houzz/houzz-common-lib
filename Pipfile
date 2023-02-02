@@ -1,0 +1,12 @@
+[[source]]
+url = "http://platform:platform@192.168.10.237:8081"
+name = "platform"
+
+[packages]
+houzz = "*"
+twitter="*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
