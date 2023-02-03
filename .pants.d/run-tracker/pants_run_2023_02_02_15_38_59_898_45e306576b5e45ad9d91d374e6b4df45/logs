@@ -1,9 +1,0 @@
-15:38:59.94 [31m[ERROR][0m 1 Exception encountered:
-
-  MappingError: Failed to parse ./houzz/common/metric/BUILD:
-Name 'python_library' is not defined.
-
-If you expect to see more symbols activated in the below list, refer to https://www.pantsbuild.org/v2.14/docs/enabling-backends for all available backends to activate.
-
-All registered symbols: ['__defaults__', '_generator_sources_helper', 'archive', 'build_file_dir', 'file', 'files', 'http_source', 'parametrize', 'pex_binaries', 'pex_binary', 'pipenv_requirements', 'poetry_requirements', 'python_artifact', 'python_distribution', 'python_requirement', 'python_requirements', 'python_source', 'python_sources', 'python_test', 'python_test_utils', 'python_tests', 'relocated_files', 'resource', 'resources', 'setup_py', 'target']
-
